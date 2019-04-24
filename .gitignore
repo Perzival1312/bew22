@@ -1,2 +1,5 @@
 package-lock.json
 node_modules
+composeexample/
+docker-sentry/srv/
+.DS_Store
